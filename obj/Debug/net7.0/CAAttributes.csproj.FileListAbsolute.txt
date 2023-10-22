@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\bin\Debug\net7.0\CAAttributes.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\bin\Debug\net7.0\CAAttributes.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\bin\Debug\net7.0\CAAttributes.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\bin\Debug\net7.0\CAAttributes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\bin\Debug\net7.0\CAAttributes.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\refint\CAAttributes.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\CAAttributes.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAAttributes\obj\Debug\net7.0\ref\CAAttributes.dll
